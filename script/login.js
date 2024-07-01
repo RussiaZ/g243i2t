@@ -20,7 +20,7 @@ btnLogin.onclick = (e) =>{
         if(usuario === "ezequiel"){
             if(senha === "oinsi"){
                 localStorage.setItem("usuario",usuario);
-                window.location.href = "/tmp/guest-o3xyuc/Downloads/g243i2t-main/logado.html";
+                window.location.href = "/tmp/guest-v9mmc3/Downloads/g243i2t-main/logado.html";
             }
         }else{
             inputUsuario.focus();
